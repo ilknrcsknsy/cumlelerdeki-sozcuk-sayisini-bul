@@ -1,0 +1,1 @@
+# cumlelerdeki-sozcuk-sayisini-bul
